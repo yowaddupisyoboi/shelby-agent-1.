@@ -47,9 +47,4 @@ Designed to integrate with **Shelby decentralized storage** for AI-ready data pe
 
 ---
 
-## 📦 Installation
 
-### 1. Clone repository
-```bash
-git clone https://github.com/yourname/crypto-shelby-agent.git
-cd crypto-shelby-agent
